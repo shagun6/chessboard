@@ -1,1 +1,1 @@
-# chessboard
+# chessboard queens
